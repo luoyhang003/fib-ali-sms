@@ -1,0 +1,23 @@
+{
+  "name": "fib-ali-sms",
+  "version": "0.1.0",
+  "description": "Aliyun short message service client for FIBJS.",
+  "main": "./lib/index.js",
+  "repository": "git@github.com:luoyhang003/fib-ali-sms.git",
+  "homepage": "https://github.com/luoyhang003/fib-ali-sms",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "fibjs test"
+  },
+  "keywords": [
+    "fibjs",
+    "aliyun",
+    "sms",
+    "ali-sms"
+  ],
+  "author": "luoyhang003@hotmail.com",
+  "license": "GPL-3.0"
+}
