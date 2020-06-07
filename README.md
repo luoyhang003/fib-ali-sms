@@ -1,6 +1,6 @@
 # fib-k8s-client
 
-[![NPM version](https://img.shields.io/npm/v/fib-ali-sms?style=flat-square)](https://www.npmjs.com/package/fib-k8s-client)
+[![NPM version](https://img.shields.io/npm/v/fib-ali-sms?style=flat-square)](https://www.npmjs.com/package/fib-ali-sms)
 
 fib-k8s-client is an Aliyun short message service client for FIBJS.
 
